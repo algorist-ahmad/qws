@@ -1,0 +1,1 @@
+ln -svi $HOME/src/zfq/zfq.sh $HOME/bin/zfq
